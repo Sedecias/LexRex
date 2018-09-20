@@ -2,8 +2,7 @@
 A bug report repository for the LexRex team.
 All bugs, exploits, or other information that
 you should like to bring to the attention of
-the LexRex development team, must be done here.
-https://github.com/Sedecias/LexRex/issues
+the LexRex development team, must be done by creating a new issue [here](https://github.com/Sedecias/LexRex/issues).
 
 If a response is not given within a period of
 24 hours after the post was made, you are free
