@@ -21,3 +21,7 @@ server pack. If at any time we run afoul of your
 licensing, and you hold the rights to the content
 in question, please contact us without delay and
 we'll rectify the issue with extreme haste.
+You are most likely to get our attention through 
+filing an issue here, or directly contacting our
+staff (tagged |LEXREX TEAM|) on our [https://discord.gg/zq6hvTS](Discord).
+
