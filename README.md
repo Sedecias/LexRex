@@ -12,7 +12,7 @@ about, or steps to reproduce that bug
 anywhere but on this GitHub until that 24 hour
 period has fully expired, or it has been fixed.
 
-# Permissions
+# Usage
 LexRex takes pride in the lengths it has gone
 to preserve the licenses and permissions of the
 mods and plugins that are used within the LexRex 
