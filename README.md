@@ -23,5 +23,5 @@ in question, please contact us without delay and
 we'll rectify the issue with extreme haste.
 You are most likely to get our attention through 
 filing an issue here, or directly contacting our
-staff (tagged |LEXREX TEAM|) on our [https://discord.gg/zq6hvTS](Discord).
+staff (tagged |LEXREX TEAM|) on our [Discord](https://discord.gg/zq6hvTS).
 
