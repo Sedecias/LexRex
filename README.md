@@ -18,10 +18,10 @@ LexRex takes pride in the lengths it has gone
 to preserve the licenses and permissions of the
 mods and plugins that are used within the LexRex 
 server pack. If at any time we run afoul of your 
-licensing, and you hold the rights to the content
-in question, please contact us without delay and
-we'll rectify the issue with extreme haste.
-You are most likely to get our attention through 
-filing an issue here, or directly contacting our
+licensing, if you hold the rights to the content
+in question, or if you would like to withdraw permission,
+please contact us without delay and we'll rectify the issue 
+with extreme haste. You are most likely to get our attention 
+through filing an issue here, or directly contacting our
 staff (tagged |LEXREX TEAM|) on our [Discord](https://discord.gg/zq6hvTS).
 
