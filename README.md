@@ -1,4 +1,4 @@
-# LexRex
+# LexRex Minecraft
 A bug report repository for the LexRex team.
 All bugs, exploits, or other information that
 you should like to bring to the attention of
@@ -12,8 +12,8 @@ about, or steps to reproduce that bug
 anywhere but on this GitHub until that 24 hour
 period has fully expired, or it has been fixed.
 
-# Usage
-LexRex takes pride in the lengths it has gone
+# Minecraft Mod Usage
+LexRex Minecraft takes pride in the lengths it has gone
 to preserve the licenses and permissions of the
 mods and plugins that are used within the LexRex 
 server pack. If at any time we run afoul of your 
