@@ -1,5 +1,5 @@
 # LexRex Minecraft
-A bug report repository for the LexRex team.
+A bug report repository for the LexRex Minecraft team.
 All bugs, exploits, or other information that
 you should like to bring to the attention of
 the LexRex development team, must be done by creating a new issue [here](https://github.com/Sedecias/LexRex/issues).
