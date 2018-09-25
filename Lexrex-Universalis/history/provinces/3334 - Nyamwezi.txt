@@ -1,0 +1,25 @@
+#3334 - Nyamwezi
+
+culture = swahili
+religion = shamanism
+capital = "Nyamwezi"
+native_size = 60
+native_ferocity = 4
+native_hostileness = 9 
+trade_goods = unknown
+hre = no
+base_tax = 3 base_production = 3
+base_manpower = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+
+
+		
