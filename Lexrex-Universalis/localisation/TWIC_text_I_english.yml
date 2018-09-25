@@ -1,0 +1,4 @@
+l_english:
+ the_world_is_complete.1.t: "Whale Oil"
+ the_world_is_complete.1.d: "We have received reports from our colonial settlers in $PROVINCENAME$ that the surrounding waters are full of whales. Their Oil will light our lamps."
+ the_world_is_complete.1.o: "That is great news"
