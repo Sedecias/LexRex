@@ -1,0 +1,9 @@
+(4.0)-TheWorldIsReReleased [23-Sep-18] <-
+--------------------------------------
+Changes:
+- Updated for Europa Universalis {v1.26.1.0} 
+- Now maintained by The LexRex Team.
+- https://discord.gg/W9r6ATb
+
+======================================
+(3.4)-TheWorldIsReReleased [06-Mar-17]
