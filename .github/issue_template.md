@@ -3,7 +3,7 @@
 
 **Project Name:**
 (Which Project is this for?)
-(e.g. "LexRex MC","The World is Re-Released","Unions Unbridled")
+(e.g. "The World is Re-Released","Unions Unbridled")
 
 **Brief Description:**
 (Short description here.)
